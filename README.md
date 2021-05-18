@@ -2,6 +2,8 @@
 
 WEBGL link: https://kreso11.github.io/WEBGLBUILD/
 
+Game youtube link: https://www.youtube.com/watch?v=gpiBMea9MWc
+
 Assets: 
 https://assetstore.unity.com/packages/3d/characters/humanoids/lowpoly-medieval-priest-st-patrick-free-pack-164796 
 https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705 
